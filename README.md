@@ -18,7 +18,6 @@ Schdeular.com is a powerful project management system which help to complete pro
  - Kirtiraj Ingale
  - Parag Sonje
 
-
 # Overview Of Project
 
 ![sce6](https://user-images.githubusercontent.com/106136277/212605251-7e6d8f8c-232b-4eef-8254-17532c0176e6.png)
