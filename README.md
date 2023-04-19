@@ -4,8 +4,6 @@ Schdeular.com is a powerful project management system which help to complete pro
 
 
 
-
-
 ## [Netlify Deployed Link](https://schedulermonday.netlify.app/)
 
 ## Tech Stack Used
